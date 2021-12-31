@@ -9,11 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0</version>
     <modules>
-        <module>kafka-streams</module>
         <module>kafka-twitter-producer</module>
         <module>kafka-basics</module>
         <module>kafka-elastic-consumer</module>
-        <module>kafka-streams</module>
     </modules>
 
     <properties>
