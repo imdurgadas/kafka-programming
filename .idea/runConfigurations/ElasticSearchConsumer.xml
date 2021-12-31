@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ElasticSearchConsumer" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <envs>
+      <env name="ES_SCHEME" value="https" />
+      <env name="ES_PORT" value="443" />
+      <env name="ES_HOST" value="kafka101-5273606202.ap-southeast-2.bonsaisearch.net" />
+      <env name="ES_USERNAME" value="ynj15niluj" />
+      <env name="ES_PASSWORD" value="y9784dl4z6" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="in.durgadas.tech.kafka.es.ElasticSearchConsumer" />
+    <module name="kafka-elastic-consumer" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
